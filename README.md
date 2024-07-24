@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ojesh-Mundale
 - 👀 I’m interested in DSA,DEVOPS AND CYBERSECURITY
-- 🌱 I’m currently learning CSE feom University of Mumbai
+- 🌱 I’m currently learning CSE from University of Mumbai
