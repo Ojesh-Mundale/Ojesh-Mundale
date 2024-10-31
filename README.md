@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ojesh-Mundale
-- 👀 I’m interested in DSA,DEVOPS AND CYBERSECURITY as well as Software Development 
+- 👀 I’m interested in DSA ,DEVOPS,CYBERSECURITY as well as Software Development 
 - 🌱 I’m currently learning CSE from University of Mumbai
