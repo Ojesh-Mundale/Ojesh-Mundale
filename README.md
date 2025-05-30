@@ -49,18 +49,26 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>  
+</div> <td valign="top" width="33%">
 
 
+### Frameworks  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src= alt="Git" height="50" /></a>  
+</div><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
+
+
+
 </td></tr></table>  
 
 <br/>  
+
 
 
 ## Connect with me  
@@ -85,7 +93,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ojesh-mundale&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ojesh-mundale&&style=flat-square" align="center" width="250" height="50" />
 </div>  
   
 
@@ -93,6 +101,5 @@
 
 <div align="center"></div>
 <br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
