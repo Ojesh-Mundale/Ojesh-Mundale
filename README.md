@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ <img align="right" alt="Coding Image" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
 ### <div align="center">Hi , I'm  Ojesh  Mundale</div>  
-  
 
 -  🖥️ I’m currently a CSE Student 
   
