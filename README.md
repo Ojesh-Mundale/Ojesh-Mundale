@@ -67,6 +67,9 @@
 </td></tr></table>  
 
 <br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojesh-mundale&show_icons=true&locale=en&layout=compact" alt="ojesh-mundale" width="450px" />
+</p>
 
 
 
