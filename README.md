@@ -5,7 +5,7 @@
 
 ### <div align="center">Hi , I'm  Ojesh  Mundale</div>  
 
--  🖥️ I’m currently a CSE Student 
+-  I’m currently a CSE Student 
   
 
 - I have a keen interest in Software Development  
