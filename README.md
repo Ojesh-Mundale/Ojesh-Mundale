@@ -66,10 +66,10 @@
 
 </td></tr></table>  
 
-<br/>  
+<!-- <br/>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojesh-mundale&layout=compact&v=2" alt="ojesh-mundale" width="450px" />
-</p>
+</p> -->
 
 
 
@@ -88,9 +88,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ojesh-mundale&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ojesh-mundale&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
+<br/>   -->
 
 
 
@@ -103,5 +103,5 @@
 
 <div align="center"></div>
 <br />
-----
+---
 
