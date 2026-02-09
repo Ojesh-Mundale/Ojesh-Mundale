@@ -5,10 +5,10 @@
 
 ### <div align="center">Hi , I'm  Ojesh  Mundale</div>  
 
--  I’m currently a CSE Student 
+-  I’m a Software Developer
   
 
-- I have a keen interest in Software Development  
+- I have a keen interest in AI and Software Development 
 
 <br/>  
 
