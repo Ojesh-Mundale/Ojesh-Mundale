@@ -1,7 +1,7 @@
-### <div align="center">Hi, I'm Ojesh </div>
+# <div align="center">Hi, I'm Ojesh </div>
 
-<h3 align="center">I am a Software Developer</h3>
-<h4 align="center">I love working with AI and Software Development</h4>
+<h2 align="center">I am a Software Developer</h3>
+<h2 align="center">I love working with AI and Software Development</h4>
 
 <br/>
 
