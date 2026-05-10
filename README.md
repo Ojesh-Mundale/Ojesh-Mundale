@@ -6,7 +6,7 @@
 <br/>
 ## 🎮 GitHub Contribution Game
 
-![My GitHub Game](https://raw.githubusercontent.com/OjeshMundale/OjeshMundale/output/game.gif)
+![Game](https://raw.githubusercontent.com/Ojesh-Mundale/Ojesh-Mundale/main/game.gif)
 
 ## <div align="center">Connect with me</div>
 
