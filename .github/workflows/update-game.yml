@@ -12,9 +12,6 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - uses: actions/checkout@v5
         with:
@@ -23,5 +20,5 @@ jobs:
       - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'output/game.gif'
+          output-path: 'game.gif'
           strategy: 'random'
