@@ -4,7 +4,6 @@
 <h2 align="center">I love working with AI and Software Development</h4>
 
 <br/>
-## 🎮 GitHub Contribution Game
 
 ![Game](https://raw.githubusercontent.com/Ojesh-Mundale/Ojesh-Mundale/main/game.gif)
 
